@@ -1,1 +1,1 @@
-### Hi, I am hogu 👋
+### hi, i am hugo 👋 i love programming
