@@ -1,1 +1,1 @@
-### hi, i am hugo 👋 i love programming
+### hi, i am hugo. i love programming
