@@ -1,3 +1,3 @@
 ### hi, i am hugo. i love programming
 
-[hugochan.xyz](hugochan.xyz)
+[hugochan.xyz](https://hugochan.xyz)
